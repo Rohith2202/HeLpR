@@ -1,0 +1,60 @@
+.Heading{
+    background-color: rgb(52,45,44);
+    color: white;
+    margin: 0px;
+    font-size: 40px;
+}
+.secondHead {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white; 
+  }
+  
+.secondHead h2 {
+    margin-left: 0px; 
+  }
+.post {
+    text-decoration: none; 
+    padding: 8px 12px; 
+    border: 1px solid #333; 
+    border-radius: 5px; 
+    color: white; 
+    
+  }
+.post:hover{
+    background-color: blue;
+    color:black;
+}
+.data{
+    margin: 0px;
+    padding-left: 0px;
+    color: white; 
+}
+.hr{
+    margin: 0px;
+    padding-left: 0px;
+    color: white; 
+}
+.what{
+    padding-left: 5px;
+    color: white; 
+}
+li{
+    padding-top:0px;
+    margin-top:0px;
+    color: white; 
+}
+.links{
+    color:black;
+    text-decoration: none;
+    margin:0px;
+    padding:0px;
+    color: white; 
+}
+.contains:hover{
+    background-color: blue;
+    color:black;
+    margin: 0px;
+}
+

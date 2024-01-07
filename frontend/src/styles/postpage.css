@@ -1,0 +1,54 @@
+.Heading{
+    background-color: rgb(52,45,44);
+    color: white;
+    margin: 0px;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(31,8,5);
+}
+/* Add your own styling as needed */
+.formContainer {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .formGroup {
+    margin-bottom: 20px;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  
+  .textArea {
+    width: 150%;
+    height: 200%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  
+  .submitButton {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    background-color: #45a049;
+  }
+  
